@@ -15,8 +15,9 @@ The platform uses **SARA (Sign Language AI Recognition Assistant)** as its AI mo
 * 📚 Support ISL learning and practice.
 * 🤖 Integrate the **SARA AI model** for sign recognition.
 * 🌍 Make communication more accessible and inclusive.
+  ------------------------------------------------------------------------------------
 
-## 🧠 AI Model – SARA
+## 🧠 AI Model – SARA ##
 
 **SARA (Sign Language AI Recognition Assistant)** is the planned AI model for Vachetram.
 
