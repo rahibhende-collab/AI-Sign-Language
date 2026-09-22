@@ -1,6 +1,6 @@
-# 🤟 Vachetram – AI-Powered Sign Language Platform
+# 🤟 Sanket – AI-Powered Sign Language Platform
 
-**Vachetram** is an ongoing AI-powered Indian Sign Language (ISL) communication and learning platform designed to bridge the communication gap between sign language users and non-sign-language users.
+**Sanket** is an ongoing AI-powered Indian Sign Language (ISL) communication and learning platform designed to bridge the communication gap between sign language users and non-sign-language users.
 
 The platform uses **SARA (Sign Language AI Recognition Assistant)** as its AI model to recognize and interpret Indian Sign Language and convert signs into meaningful text and, where applicable, speech.
 
